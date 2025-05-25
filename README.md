@@ -68,7 +68,7 @@ This report consists of three pages, navigable via buttons located in the left c
 3. **Stacked Bar Chart**: Depicts the distribution of homicide perpetrators by age category
 4. **Donut Chart**: Shows perpetrator ethnicity distribution in homicides
 
-## Snapshots of the Dashboard
+## Snapshots of the Report
 
 ![Image](https://github.com/user-attachments/assets/73d1d74b-211f-4c2c-9747-a76d6a51e1b7)
 ![Image](https://github.com/user-attachments/assets/1ba4e99b-5da1-43b5-b25f-b6d26c7b21df)
