@@ -1,8 +1,8 @@
-# Homicide Report (1980 - 2014) Dashboard
+# Homicide Report (1980 - 2014)
 
 ## Introduction
 
-Welcome to the Homicide Report Dashboard! This Power BI dashboard analyzes a dataset encompassing murders from the FBI's Supplementary Homicide Reports (SHR) spanning from 1980 to 2014 in the United States. The dataset includes detailed information on the age, race, sex, and ethnicity of victims and perpetrators, as well as the relationship between them and the weapons used. 
+Welcome to the Homicide Report! This Power BI report analyzes a dataset encompassing murders from the FBI's Supplementary Homicide Reports (SHR) spanning from 1980 to 2014 in the United States. The dataset includes detailed information on the age, race, sex, and ethnicity of victims and perpetrators, as well as the relationship between them and the weapons used. 
 
 ## Acknowledgements
 
@@ -10,7 +10,7 @@ The data was compiled and made available by the Murder Accountability Project, f
 
 ## Data Source
 
-The dataset used in this dashboard is sourced from Kaggle:
+The dataset used in this report is sourced from Kaggle:
 
 [Homicide Reports (1980-2014) Dataset](https://www.kaggle.com/datasets/murderaccountability/homicide-reports)
 
@@ -44,7 +44,7 @@ Entries with a victim age of 998 and perpetrator age of 0 were categorized as "U
 
 ## Visualizations
 
-The dashboard consists of three pages, navigable via buttons located in the left corner:
+This report consists of three pages, navigable via buttons located in the left corner:
 
 ### Page 1: Overview
 
