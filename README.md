@@ -71,6 +71,7 @@ This report consists of three pages, navigable via buttons located in the left c
 ## Snapshots of the Report
 
 ![Image](https://github.com/user-attachments/assets/73d1d74b-211f-4c2c-9747-a76d6a51e1b7)
+<img width="1372" height="774" alt="Image" src="https://github.com/user-attachments/assets/8fa97148-fa02-4c4a-ae6f-b45304e2a50c" />
 ![Image](https://github.com/user-attachments/assets/1ba4e99b-5da1-43b5-b25f-b6d26c7b21df)
 ![Image](https://github.com/user-attachments/assets/c4af7e5b-e26e-48d6-bdb4-8ecf0d998bcd)
 
